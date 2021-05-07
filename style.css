@@ -1,0 +1,26 @@
+input{
+    padding: 10px;
+
+}
+body{
+    background-color: blue;
+    color: chartreuse;
+    font-size: 20px;
+}
+#button_submit{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: crimson;
+    color: darksalmon;
+    font-size: 22px;
+    padding: 10px;
+}
+#button_sort{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: crimson;
+    color: darksalmon;
+    font-size: 22px;
+    padding: 10px;
+    display: none;
+}
